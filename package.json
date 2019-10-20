@@ -1,0 +1,27 @@
+{
+  "name": "cpsc349-assignment5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremymgibbons/cpsc349-assignment5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremymgibbons/cpsc349-assignment5/issues"
+  },
+  "homepage": "https://github.com/jeremymgibbons/cpsc349-assignment5#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
